@@ -1,0 +1,18 @@
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\bin\Debug\BUS.dll
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\bin\Debug\BUS.pdb
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\bin\Debug\DAL.dll
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\bin\Debug\DTO.dll
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\bin\Debug\DAL.pdb
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\bin\Debug\DTO.pdb
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\obj\Debug\BUS.dll
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\BUS\obj\Debug\BUS.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\bin\Debug\BUS.dll
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\bin\Debug\BUS.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\bin\Debug\DAL.dll
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\bin\Debug\DTO.dll
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\bin\Debug\DAL.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\bin\Debug\DTO.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\obj\Debug\BUS.dll
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\BUS\obj\Debug\BUS.pdb

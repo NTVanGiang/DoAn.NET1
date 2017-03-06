@@ -1,0 +1,9 @@
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\DTO\bin\Debug\DTO.dll
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\DTO\bin\Debug\DTO.pdb
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\DTO\obj\Debug\DTO.dll
+D:\HocTap\Net\QuanLyThuoc\QuanLyThuoc\DTO\obj\Debug\DTO.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\DTO\bin\Debug\DTO.dll
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\DTO\bin\Debug\DTO.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\DTO\obj\Debug\DTO.dll
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\DTO\obj\Debug\DTO.pdb
+C:\Users\Van Giang\Desktop\MyNet\QuanLyThuoc\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
